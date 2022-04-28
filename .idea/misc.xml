@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_aboli_plant.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_banana.xml" value="0.264" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_bougainvillea_pink.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_ceramicpot.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_chia_seeds.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_chiaseeds.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_chiaseeeds.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_chrysanthemum.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_clivia_lily.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_compacta.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_complete_fertilizer.xml" value="0.2" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_compound_fertilizers.xml" value="0.2" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_custard_apple.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_cylinderpot.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_dahlia.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_desert_rose.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_dragon_fruit.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_fertiliser.xml" value="0.264" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_flaxseeds.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_flower_plants.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_fruit_plant.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_gardening_tools.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_guava.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_hand_trowel.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_hemp_seeds.xml" value="0.24270833333333333" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_jamun.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_kutajah.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_loppers.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_magneticsucculent.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_mango.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_metalpot.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_nitrogen_fertilizers.xml" value="0.2" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_phosphate_fertilizers.xml" value="0.2" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_pop_pot.xml" value="0.21068376068376068" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_potassium_fertilizers.xml" value="0.2" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_pots.xml" value="0.264" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_pumpkin_seeds.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_rake.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_seeds_plant.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_sesame_seeds.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_spad.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_sunflower_seeds.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_water_hose.xml" value="0.25677083333333334" />
+        <entry key="..\:/EnviroGreen/app/src/main/res/layout/activity_wheelbarrow.xml" value="0.25677083333333334" />
+        <entry key="..\:/Projects/EnviroGreen/app/src/main/res/layout/activity_gardening_tools.xml" value="0.20277777777777778" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
